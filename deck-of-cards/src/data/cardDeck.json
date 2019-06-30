@@ -1,0 +1,366 @@
+[
+    {
+        "id": 1,
+        "value": "2",
+        "valueRank": 1,
+        "suitRank": 1,
+        "suit": "C"
+    },
+    {
+        "id": 2,
+        "value": "3",
+        "valueRank": 2,
+        "suitRank": 1,
+        "suit": "C"
+    },
+    {
+        "id": 3,
+        "value": "4",
+        "valueRank": 3,
+        "suitRank": 1,
+        "suit": "C"
+    },
+    {
+        "id": 4,
+        "value": "5",
+        "valueRank": 4,
+        "suitRank": 1,
+        "suit": "C"
+    },
+    {
+        "id": 5,
+        "value": "6",
+        "valueRank": 5,
+        "suitRank": 1,
+        "suit": "C"
+    },
+    {
+        "id": 6,
+        "value": "7",
+        "valueRank": 6,
+        "suitRank": 1,
+        "suit": "C"
+    },
+    {
+        "id": 7,
+        "value": "8",
+        "valueRank": 7,
+        "suitRank": 1,
+        "suit": "C"
+    },
+    {
+        "id": 8,
+        "value": "9",
+        "valueRank": 8,
+        "suitRank": 1,
+        "suit": "C"
+    },
+    {
+        "id": 9,
+        "value": "10",
+        "valueRank": 9,
+        "suitRank": 1,
+        "suit": "C"
+    },
+    {
+        "id": 10,
+        "value": "J",
+        "valueRank": 10,
+        "suitRank": 1,
+        "suit": "C"
+    },
+    {
+        "id": 11,
+        "value": "Q",
+        "valueRank": 11,
+        "suitRank": 1,
+        "suit": "C"
+    },
+    {
+        "id": 12,
+        "value": "K",
+        "valueRank": 12,
+        "suitRank": 1,
+        "suit": "C"
+    },
+    {
+        "id": 13,
+        "value": "A",
+        "valueRank": 13,
+        "suitRank": 1,
+        "suit": "C"
+    },
+    {
+        "id": 14,
+        "value": "2",
+        "valueRank": 1,
+        "suitRank": 2,
+        "suit": "S"
+    },
+    {
+        "id": 15,
+        "value": "3",
+        "valueRank": 2,
+        "suitRank": 2,
+        "suit": "S"
+    },
+    {
+        "id": 16,
+        "value": "4",
+        "valueRank": 3,
+        "suitRank": 2,
+        "suit": "S"
+    },
+    {
+        "id": 17,
+        "value": "5",
+        "valueRank": 4,
+        "suitRank": 2,
+        "suit": "S"
+    },
+    {
+        "id": 18,
+        "value": "6",
+        "valueRank": 5,
+        "suitRank": 2,
+        "suit": "S"
+    },
+    {
+        "id": 19,
+        "value": "7",
+        "valueRank": 6,
+        "suitRank": 2,
+        "suit": "S"
+    },
+    {
+        "id": 20,
+        "value": "8",
+        "valueRank": 7,
+        "suitRank": 2,
+        "suit": "S"
+    },
+    {
+        "id": 21,
+        "value": "9",
+        "valueRank": 8,
+        "suitRank": 2,
+        "suit": "S"
+    },
+    {
+        "id": 22,
+        "value": "10",
+        "valueRank": 9,
+        "suitRank": 2,
+        "suit": "S"
+    },
+    {
+        "id": 23,
+        "value": "J",
+        "valueRank": 10,
+        "suitRank": 2,
+        "suit": "S"
+    },
+    {
+        "id": 24,
+        "value": "Q",
+        "valueRank": 11,
+        "suitRank": 2,
+        "suit": "S"
+    },
+    {
+        "id": 25,
+        "value": "K",
+        "valueRank": 12,
+        "suitRank": 2,
+        "suit": "S"
+    },
+    {
+        "id": 26,
+        "value": "A",
+        "valueRank": 13,
+        "suitRank": 2,
+        "suit": "S"
+    },
+    {
+        "id": 27,
+        "value": "2",
+        "valueRank": 1,
+        "suitRank": 3,
+        "suit": "H"
+    },
+    {
+        "id": 28,
+        "value": "3",
+        "valueRank": 2,
+        "suitRank": 3,
+        "suit": "H"
+    },
+    {
+        "id": 29,
+        "value": "4",
+        "valueRank": 3,
+        "suitRank": 3,
+        "suit": "H"
+    },
+    {
+        "id": 30,
+        "value": "5",
+        "valueRank": 4,
+        "suitRank": 3,
+        "suit": "H"
+    },
+    {
+        "id": 31,
+        "value": "6",
+        "valueRank": 5,
+        "suitRank": 3,
+        "suit": "H"
+    },
+    {
+        "id": 32,
+        "value": "7",
+        "valueRank": 6,
+        "suitRank": 3,
+        "suit": "H"
+    },
+    {
+        "id": 33,
+        "value": "8",
+        "valueRank": 7,
+        "suitRank": 3,
+        "suit": "H"
+    },
+    {
+        "id": 34,
+        "value": "9",
+        "valueRank": 8,
+        "suitRank": 3,
+        "suit": "H"
+    },
+    {
+        "id": 35,
+        "value": "10",
+        "valueRank": 9,
+        "suitRank": 3,
+        "suit": "H"
+    },
+    {
+        "id": 36,
+        "value": "J",
+        "valueRank": 10,
+        "suitRank": 3,
+        "suit": "H"
+    },
+    {
+        "id": 37,
+        "value": "Q",
+        "valueRank": 11,
+        "suitRank": 3,
+        "suit": "H"
+    },
+    {
+        "id": 38,
+        "value": "K",
+        "valueRank": 12,
+        "suitRank": 3,
+        "suit": "H"
+    },
+    {
+        "id": 39,
+        "value": "A",
+        "valueRank": 13,
+        "suitRank": 3,
+        "suit": "H"
+    },
+    {
+        "id": 40,
+        "value": "2",
+        "valueRank": 1,
+        "suitRank": 4,
+        "suit": "D"
+    },
+    {
+        "id": 41,
+        "value": "3",
+        "valueRank": 2,
+        "suitRank": 4,
+        "suit": "D"
+    },
+    {
+        "id": 42,
+        "value": "4",
+        "valueRank": 3,
+        "suitRank": 4,
+        "suit": "D"
+    },
+    {
+        "id": 43,
+        "value": "5",
+        "valueRank": 4,
+        "suitRank": 4,
+        "suit": "D"
+    },
+    {
+        "id": 44,
+        "value": "6",
+        "valueRank": 5,
+        "suitRank": 4,
+        "suit": "D"
+    },
+    {
+        "id": 45,
+        "value": "7",
+        "valueRank": 6,
+        "suitRank": 4,
+        "suit": "D"
+    },
+    {
+        "id": 46,
+        "value": "8",
+        "valueRank": 7,
+        "suitRank": 4,
+        "suit": "D"
+    },
+    {
+        "id": 47,
+        "value": "9",
+        "valueRank": 8,
+        "suitRank": 4,
+        "suit": "D"
+    },
+    {
+        "id": 48,
+        "value": "10",
+        "valueRank": 9,
+        "suitRank": 4,
+        "suit": "D"
+    },
+    {
+        "id": 49,
+        "value": "J",
+        "valueRank": 10,
+        "suitRank": 4,
+        "suit": "D"
+    },
+    {
+        "id": 50,
+        "value": "Q",
+        "valueRank": 11,
+        "suitRank": 4,
+        "suit": "D"
+    },
+    {
+        "id": 51,
+        "value": "K",
+        "valueRank": 12,
+        "suitRank": 4,
+        "suit": "D"
+    },
+    {
+        "id": 52,
+        "value": "A",
+        "valueRank": 13,
+        "suitRank": 4,
+        "suit": "D"
+    }
+]

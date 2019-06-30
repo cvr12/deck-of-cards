@@ -1,0 +1,351 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.card {
+  background-image: url(./images/card_sprite.png);
+  background-repeat: no-repeat;
+  display: block;
+}
+
+.card-10C {
+  width: 104px;
+  height: 158px;
+  background-position: -5px -5px;
+}
+
+.card-10D {
+  width: 104px;
+  height: 158px;
+  background-position: -119px -5px;
+}
+
+.card-10H {
+  width: 104px;
+  height: 158px;
+  background-position: -233px -5px;
+}
+
+.card-10S {
+  width: 104px;
+  height: 158px;
+  background-position: -347px -5px;
+}
+
+.card-2C {
+  width: 104px;
+  height: 158px;
+  background-position: -461px -5px;
+}
+
+.card-2D {
+  width: 104px;
+  height: 158px;
+  background-position: -575px -5px;
+}
+
+.card-2H {
+  width: 104px;
+  height: 158px;
+  background-position: -689px -5px;
+}
+
+.card-2S {
+  width: 104px;
+  height: 158px;
+  background-position: -803px -5px;
+}
+
+.card-3C {
+  width: 104px;
+  height: 158px;
+  background-position: -5px -173px;
+}
+
+.card-3D {
+  width: 104px;
+  height: 158px;
+  background-position: -119px -173px;
+}
+
+.card-3H {
+  width: 104px;
+  height: 158px;
+  background-position: -233px -173px;
+}
+
+.card-3S {
+  width: 104px;
+  height: 158px;
+  background-position: -347px -173px;
+}
+
+.card-4C {
+  width: 104px;
+  height: 158px;
+  background-position: -461px -173px;
+}
+
+.card-4D {
+  width: 104px;
+  height: 158px;
+  background-position: -575px -173px;
+}
+
+.card-4H {
+  width: 104px;
+  height: 158px;
+  background-position: -689px -173px;
+}
+
+.card-4S {
+  width: 104px;
+  height: 158px;
+  background-position: -803px -173px;
+}
+
+.card-5C {
+  width: 104px;
+  height: 158px;
+  background-position: -5px -341px;
+}
+
+.card-5D {
+  width: 104px;
+  height: 158px;
+  background-position: -119px -341px;
+}
+
+.card-5H {
+  width: 104px;
+  height: 158px;
+  background-position: -233px -341px;
+}
+
+.card-5S {
+  width: 104px;
+  height: 158px;
+  background-position: -347px -341px;
+}
+
+.card-6C {
+  width: 102px;
+  height: 158px;
+  background-position: -461px -341px;
+}
+
+.card-6D {
+  width: 104px;
+  height: 158px;
+  background-position: -573px -341px;
+}
+
+.card-6H {
+  width: 104px;
+  height: 158px;
+  background-position: -687px -341px;
+}
+
+.card-6S {
+  width: 102px;
+  height: 158px;
+  background-position: -801px -341px;
+}
+
+.card-7C {
+  width: 104px;
+  height: 158px;
+  background-position: -5px -509px;
+}
+
+.card-7D {
+  width: 102px;
+  height: 158px;
+  background-position: -119px -509px;
+}
+
+.card-7H {
+  width: 104px;
+  height: 158px;
+  background-position: -231px -509px;
+}
+
+.card-7S {
+  width: 104px;
+  height: 158px;
+  background-position: -345px -509px;
+}
+
+.card-8C {
+  width: 104px;
+  height: 158px;
+  background-position: -459px -509px;
+}
+
+.card-8D {
+  width: 104px;
+  height: 158px;
+  background-position: -573px -509px;
+}
+
+.card-8H {
+  width: 104px;
+  height: 158px;
+  background-position: -687px -509px;
+}
+
+.card-8S {
+  width: 104px;
+  height: 158px;
+  background-position: -801px -509px;
+}
+
+.card-9C {
+  width: 104px;
+  height: 158px;
+  background-position: -5px -677px;
+}
+
+.card-9D {
+  width: 104px;
+  height: 158px;
+  background-position: -119px -677px;
+}
+
+.card-9H {
+  width: 104px;
+  height: 158px;
+  background-position: -233px -677px;
+}
+
+.card-9S {
+  width: 104px;
+  height: 158px;
+  background-position: -347px -677px;
+}
+
+.card-AC {
+  width: 104px;
+  height: 158px;
+  background-position: -461px -677px;
+}
+
+.card-AD {
+  width: 104px;
+  height: 158px;
+  background-position: -575px -677px;
+}
+
+.card-AH {
+  width: 104px;
+  height: 158px;
+  background-position: -689px -677px;
+}
+
+.card-AS {
+  width: 104px;
+  height: 158px;
+  background-position: -803px -677px;
+}
+
+.card-JC {
+  width: 104px;
+  height: 158px;
+  background-position: -917px -5px;
+}
+
+.card-JD {
+  width: 104px;
+  height: 158px;
+  background-position: -917px -173px;
+}
+
+.card-JH {
+  width: 104px;
+  height: 158px;
+  background-position: -913px -341px;
+}
+
+.card-JS {
+  width: 104px;
+  height: 158px;
+  background-position: -915px -509px;
+}
+
+.card-KC {
+  width: 104px;
+  height: 158px;
+  background-position: -917px -677px;
+}
+
+.card-KD {
+  width: 104px;
+  height: 158px;
+  background-position: -5px -845px;
+}
+
+.card-KH {
+  width: 102px;
+  height: 158px;
+  background-position: -119px -845px;
+}
+
+.card-KS {
+  width: 104px;
+  height: 158px;
+  background-position: -231px -845px;
+}
+
+.card-QC {
+  width: 104px;
+  height: 158px;
+  background-position: -345px -845px;
+}
+
+.card-QD {
+  width: 104px;
+  height: 158px;
+  background-position: -459px -845px;
+}
+
+.card-QH {
+  width: 104px;
+  height: 158px;
+  background-position: -573px -845px;
+}
+
+.card-QS {
+  width: 104px;
+  height: 158px;
+  background-position: -687px -845px;
+}
